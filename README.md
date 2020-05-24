@@ -1,2 +1,2 @@
-# sample_based_learning_methods
-Part 2 of Reinforcement Learning Specialization at Coursera
+# Sample-based Learning Methods
+Part 2 of Reinforcement Learning Specialization at Coursera [1](https://www.coursera.org/specializations/reinforcement-learning)
